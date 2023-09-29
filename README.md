@@ -1,14 +1,13 @@
 # streaming-05-smart-smoker
-# streaming-05-smart-smoker
 This project implements a data producer for streaming sensor data from a smart smoker system. The sensor data is stored in a CSV file, and the producer reads this data and sends it to RabbitMQ queues. The data includes temperature readings for the smoker itself and two food items (Food A and Food B), with readings taken every 30 seconds.
 
-<br>Author: Naiema Elsaadi</br>
-<br>Date: September 16, 2023</br>
+<br>Author: Kelly Simmons</br>
+<br>Date: 09/29/23</br>
 
 
 ## Getting Started
 
- <br><B> Before You Begin </b></br>
+
  
 Before running the producer, ensure the following requirements are met:
 
