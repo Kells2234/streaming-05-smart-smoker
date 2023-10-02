@@ -1,3 +1,4 @@
+
 """
 The scrip creates a producer that reads sensor data from the CSV file 
 and sends it to the specified RabbitMQ queues, with a frequency of one value 
@@ -141,6 +142,3 @@ if __name__ == "__main__":
     message = " ".join(sys.argv[1:]) or '{MESSAGE}'
     # send the message to the queue
     send_temp("localhost","01-smoker", "Food_A_1", "Food_B_1", message)
-    
-
-    
