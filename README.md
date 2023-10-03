@@ -54,12 +54,13 @@ Before running the producer, ensure the following requirements are met:
 
 
 ## Multiple Terminals Screenshots
-![Alt text](<Screenshot 2023-09-29 120115.png>)
-![Alt text](<Screenshot 2023-09-29 120347.png>)
+![Alt text](<Screenshot 2023-10-03 191306.png>)
+![Alt text](<Screenshot 2023-10-03 191330.png>)
+![Alt text](<Screenshot 2023-10-03 191344.png>)
 
 
 ## RabbitMQ WebInterface screenshot:
-![Alt text](<Screenshot 2023-09-29 115430.png>)
+![Alt text](<Screenshot 2023-10-02 174239.png>)
 
 
 
